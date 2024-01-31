@@ -35,7 +35,7 @@ app.get('/', function(req, res) {
 
 // Listen on a port
 app.listen(5000);
-
+```
 
 ### Basic Route Handling
 - Handling requests/routes is simple
@@ -51,6 +51,7 @@ app.get('/', function(req, res){
   // Return JSON
   // Full access to request & response
 });
+```
 
 ### Express Middelware
 Middelware functions are functions that have access to the request and response object. Express has built in middelware but middelware also comes from 3rd party packages as well as custom middelware.
