@@ -1,6 +1,6 @@
-# ExpressJS Crash Course
+# Express JS Crash Course
 
-## What Is Express?
+## What is Express?
 Express is a fast and minimalist web framework for Node.js.
 
 Express is a "server-side" or "back-end" framework. It is not comparable to client-side frameworks like React, Angular & Vue. It can be used in combination with those frameworks to build full-stack applications.
