@@ -12,11 +12,11 @@ Express is a "server-side" or "back-end" framework. It is not comparable to clie
 - By far the most popular Node framework
 - Great to use with client-side frameworks as it is all JavaScript
 
-## What to Know First
+## What to Know First?
 - JavaScript Fundamentals (Objects, Arrays, Conditionals, etc.)
 - Basic Node.js and NPM
 
-### It may help to learn these first
+### It may help to learn these first:
 - HTTP Status Codes
 - JSON
 - High Order Array Methods - forEach(), map, filter
