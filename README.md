@@ -1,5 +1,7 @@
 # Express JS Crash Course
 
+In this comprehensive Express.js tutorial, it covers essential aspects of building web applications with Express. The tutorial begins with an introduction to Express and outlines prerequisites. It then delves into the basic syntax and route handling capabilities of Express, highlighting the role of middleware in the process. The installation and setup process is detailed, followed by practical demonstrations on creating routes, utilizing nodemon for automatic server restarts, and rendering HTML. Static file handling and the development of a REST API are thoroughly explored. The tutorial progressively covers more advanced topics such as middleware usage, fetching a single member, and employing the Express Router for improved route organization. Additionally, CRUD (Create, Read, Update, Delete) operations are implemented for managing members, offering a well-rounded understanding of Express.js for building robust web applications.
+
 ## What is Express?
 Express is a fast and minimalist web framework for Node.js.
 
